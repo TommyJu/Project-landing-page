@@ -8,4 +8,4 @@ https://www.callwhitney.com/wp-content/uploads/2018/12/emergency-plumbing-servic
 
 https://www.rd.com/wp-content/uploads/2021/12/GettyImages-1352663658.jpg
 
-Project Summary:
+Project Summary: Overall, I had a lot of fun creating this landing page. It was a good opportunity to review what I have learned so far, and it gave me the confidence to take on the challenge of creating the actual website for Tekin Drainage. One of my greatest challenges was creating a responsive website that would look great on any device. However, this became a big achievement for me because it pushed me to more deeply understand Flexbox through trial and error.
