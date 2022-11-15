@@ -80,6 +80,10 @@ header {
     align-items: center;
 }
 
+.header-container-2 h3 {
+    font-style: italic;
+}
+
 .header-address {
     font-size: 32px;
     text-align: center;
@@ -144,10 +148,6 @@ h2 {
     padding: 60px;
 }
 
-.testimonial {
-
-}
-
 .push {
     margin-left: auto;
 }
@@ -161,5 +161,43 @@ h2 {
     line-height: 1.5em;
 }
 
-/*Contact us section*/
+/*Contact section*/
+.contact-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.contact-box {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    gap: 36px;
+    flex-wrap: wrap;
+    background-color: #1f2937;
+    align-items: center;
+    padding: 36px 24px 36px 24px;
+    color: white;
+    border-radius: 10px;
+}
+
+.contact-text {
+    padding: 0 60px 0 60px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 /*Footer section*/
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
